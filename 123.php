@@ -9,5 +9,5 @@
 ctrl e 行末
 ctrl c 放弃该行
 git config --g
- *
+ *1231
  */
